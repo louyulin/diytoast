@@ -15,4 +15,4 @@
 
 #### 使用:
 
-          LToast.showToast(context,index + "");
+          LToast.showToast(context,str);
